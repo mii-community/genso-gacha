@@ -2,8 +2,7 @@
   <div>
     <the-header></the-header>
     <main>
-    <Nuxt />
-
+      <Nuxt />
     </main>
   </div>
 </template>
